@@ -1,0 +1,9 @@
+YOUR RECEIPT
+Items				Cost
+
+Wii				$249.99
+Subtotal = $249.99
+
+Tax = $25.00
+
+Total Price = $274.99
